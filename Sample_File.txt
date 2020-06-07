@@ -1,1 +1,3 @@
-THis is Majid sample file
+This is Majid sample file
+
+The file is created on June 7th.
