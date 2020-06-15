@@ -17,7 +17,7 @@
   </table>
 
   <br />
-  <p>This is the output of a JSP page that is part of the ShopWeb Application.</p>
+  <p>This is the output of a JSP page that is part of the ShopWeb Application. This is updated on June 14th.</p>
 
   <%= new String("Hello!") %>
 
